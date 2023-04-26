@@ -1,0 +1,22 @@
+{
+  "name": "typescript-flight-diary",
+  "version": "1.0.0",
+  "description": "A project to practice typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JWCTempleton/typescript-flight-diary.git"
+  },
+  "author": "JWCTempleton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JWCTempleton/typescript-flight-diary/issues"
+  },
+  "homepage": "https://github.com/JWCTempleton/typescript-flight-diary#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
